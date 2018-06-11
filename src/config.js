@@ -1,8 +1,3 @@
-// config.js
-
-//==========================================================================
-//vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
-//vvvvv Customization Starts vvvvv
 export const config = {
   db: { host: 'localhost', port: 27017, name: 'db' },
   redis:
@@ -14,8 +9,5 @@ export const config = {
   msgKW1: 'ding',
   msgKW2: 'dong',
 }
-//^^^^^ Customization Ends ^^^^^
-//^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-//==========================================================================
 
 export default config
