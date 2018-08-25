@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb674941-ba90-46ce-b712-1dfd336d9276" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -62,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
-              <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -252,12 +251,12 @@
       <updated>1528546935184</updated>
       <workItem from="1528546937062" duration="19569000" />
       <workItem from="1535205167987" duration="60000" />
-      <workItem from="1535205380747" duration="459000" />
+      <workItem from="1535205380747" duration="978000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20088000" />
+    <option name="totallyTimeSpent" value="20607000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1292" height="726" extended-state="0" />
@@ -266,12 +265,12 @@
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info id="npm" order="2" sideWeight="0.38629285" side_tool="true" visible="true" weight="0.2504052" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.45500848" />
+      <window_info id="npm" order="2" sideWeight="0.38425925" side_tool="true" visible="true" weight="0.2504052" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.45500848" />
       <window_info anchor="right" id="Mongo Explorer" order="3" />
       <window_info anchor="right" id="Graph Database" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="5" weight="0.26741573" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6137072" visible="true" weight="0.2504052" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="5" visible="true" weight="0.2665535" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6157407" visible="true" weight="0.2504052" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Graph Database Console" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -477,7 +476,7 @@
     <entry file="file://$PROJECT_DIR$/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
