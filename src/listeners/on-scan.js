@@ -1,4 +1,4 @@
-module.exports= async function onScan (url, code) {
+module.exports = async function onScan (url, code) {
   let loginUrl = url.replace('qrcode', 'l')
   console.log(code, url)
 

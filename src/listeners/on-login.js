@@ -1,3 +1,3 @@
-module.exports= async function onLogin (user) {
+module.exports = async function onLogin (user) {
   console.log(`${user} login`)
 }

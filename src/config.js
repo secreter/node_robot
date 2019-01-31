@@ -1,4 +1,4 @@
-export const config = {
+const config = {
   db: { host: 'localhost', port: 27017, name: 'db' },
   redis:
   { default: { port: 6379 },
@@ -8,6 +8,7 @@ export const config = {
   friendEnabled: true,
   msgKW1: 'ding',
   msgKW2: 'dong',
+  filePath: './files/'
 }
 
-export default config
+module.exports = config

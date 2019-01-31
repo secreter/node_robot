@@ -1,8 +1,7 @@
 
-const { hotImport } = require('hot-import')
+const config = require('../config.js')
 
-module.exports= async function onFriend (contact, request) {
-  const config = await hotImport('config.js')
+module.exports = async function onFriend (contact, request) {
   if (!config.friendEnabled) return
 
   if (request) {
