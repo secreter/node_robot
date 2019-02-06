@@ -19,7 +19,7 @@ async function main () {
     .on('logout', onLogout)
     .on('logout', onLogout)
     .on('message', onMessage.bind(null, bot))
-    .on('friendship', onFriend)
+    .on('friendship', onFriend.bind(null, bot))
     .on('room-invite', onRoomInvite)
     .on('room-join', onRoomJoin)
     .on('room-leave', onRoomLeave)
